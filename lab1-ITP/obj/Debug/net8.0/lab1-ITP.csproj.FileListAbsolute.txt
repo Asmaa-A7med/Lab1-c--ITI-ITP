@@ -1,0 +1,14 @@
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\bin\Debug\net8.0\lab1-ITP.exe
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\bin\Debug\net8.0\lab1-ITP.deps.json
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\bin\Debug\net8.0\lab1-ITP.runtimeconfig.json
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\bin\Debug\net8.0\lab1-ITP.dll
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\bin\Debug\net8.0\lab1-ITP.pdb
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\obj\Debug\net8.0\lab1-ITP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\obj\Debug\net8.0\lab1-ITP.AssemblyInfoInputs.cache
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\obj\Debug\net8.0\lab1-ITP.AssemblyInfo.cs
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\obj\Debug\net8.0\lab1-ITP.csproj.CoreCompileInputs.cache
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\obj\Debug\net8.0\lab1-ITP.dll
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\obj\Debug\net8.0\refint\lab1-ITP.dll
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\obj\Debug\net8.0\lab1-ITP.pdb
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\obj\Debug\net8.0\lab1-ITP.genruntimeconfig.cache
+C:\Users\asmaa\Desktop\ITI-ITP\c#OOP\lab1-ITP\lab1-ITP\obj\Debug\net8.0\ref\lab1-ITP.dll
